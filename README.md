@@ -1,2 +1,2 @@
 My first readme
-README an update from github.com
+i am a software engineer
